@@ -47,7 +47,7 @@ the functionality of modern chatbots more transparent.
 
 1. **Clone/Download**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ddarmon/chatr.git
    cd chatr
    ```
 

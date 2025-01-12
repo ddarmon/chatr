@@ -1,7 +1,8 @@
 # chatr
 
 A modern Shiny-based chat interface for local language models, built to
-demonstrate the bare-bones functionality of a modern chatbot.
+demonstrate the bare-bones functionality of a modern chatbot leveraging the
+[ellmer](https://ellmer.tidyverse.org) package.
 
 ![Screenshot demonstrating the chatr interface](chatr_screenshot.jpg)
 
@@ -40,7 +41,7 @@ the functionality of modern chatbots more transparent.
     "bslib"
   ))
   ```
-- A local Ollama installation (for the language models)
+- A local [Ollama](https://ollama.com) installation (for the language models)
 
 ## Setup
 

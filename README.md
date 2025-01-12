@@ -54,7 +54,7 @@ the functionality of modern chatbots more transparent.
 2. **Environment Configuration**
    Create an `.Renviron` file in the app directory:
    ```
-   OLLAMA_BASE_URL=http://127.0.0.1:11434
+   OLLAMA_BASE_URL="http://127.0.0.1:11434"
    ```
    Adjust the URL to match your Ollama server location.
 

@@ -3,6 +3,8 @@
 A modern Shiny-based chat interface for local language models, built to
 demonstrate the bare-bones functionality of a modern chatbot.
 
+![Screenshot demonstrating the chatr interface](chatr_screenshot.jpg)
+
 ## Introduction
 
 **chatr** is a Shiny web application that provides a clean, simple interface

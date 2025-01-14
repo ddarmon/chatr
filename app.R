@@ -808,7 +808,7 @@ server <- function(input, output, session) {
     if (is.null(rv$chat_instance)) {
       rv$chat_instance <- chat_ollama(
         model = input$model,
-        base_url = "http://72.94.165.90:11434",
+        base_url = OLLAMA_BASE_URL,
         echo = "none"
       )
     }
